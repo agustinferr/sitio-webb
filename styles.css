@@ -1,7 +1,9 @@
 body {
-    background-color: rgb(255, 255, 165);
-    color:blue
-}
+
+    background-color: lightblue;
+  color:blue;
+
+ }
 
 .image{
     border: 5px solid green;
