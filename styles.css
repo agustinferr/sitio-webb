@@ -1,6 +1,14 @@
 body {
-  background-color: rgb(255, 255, 165);
+
+   background-color: lightblue;
+  color:blue;
+
 }
+
+
+   
+ }
+
 
 .image {
   border: 5px solid green;
@@ -9,6 +17,7 @@ body {
 }
 
 .link-button {
+
   text-decoration: none;
   color: black;
   border: 1px solid gray;
@@ -32,3 +41,4 @@ h2 {
 p {
   text-align: center;
 }
+
