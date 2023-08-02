@@ -1,22 +1,44 @@
 body {
 
-    background-color: lightblue;
+   background-color: lightblue;
   color:blue;
 
+}
+
+
+   
  }
 
-.image{
-    border: 5px solid green;
-    border-radius: 10px;
-    height: 400px;
+
+.image {
+  border: 5px solid green;
+  border-radius: 10px;
+  height: 400px;
 }
 
 .link-button {
-    text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: steelblue;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
+
+  text-decoration: none;
+  color: black;
+  border: 1px solid gray;
+  background-color: #f2f2f2;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 2px 3px #888888;
 }
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+.image {
+  display: block;
+  margin: 0 auto;
+}
+p {
+  text-align: center;
+}
+
